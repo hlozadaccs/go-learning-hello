@@ -1,7 +1,5 @@
-module github.hlozadaccs.com/go-learning-hello
+module github.com/hlozadaccs/go-learning-hello
 
 go 1.22.5
 
-replace github.hlozadaccs.com/go-learning-greetings => ../go-learning-greetings
-
-require github.hlozadaccs.com/go-learning-greetings v0.0.0-00010101000000-000000000000
+require github.com/hlozadaccs/go-learning-greetings v0.0.0-20240704013208-931934b6d695
